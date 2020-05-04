@@ -1,0 +1,24 @@
+{"firstname": "Randy",
+"lastname": "Randallman",
+"username": "rrandallman",
+"role": [
+    {"sales database": "admin"},
+    {"payroll database": "none"},
+    {"marketing database": "view-only"},
+    {"research and development": "none"}
+],
+"birthday" : "01/01/1970",
+"dependents": [
+    {"son": {
+        "firstname": "Randy Jr.",
+        "lastname": "Randallman"
+    }},
+    {"daughter": {
+        "firstname": "Rachel",
+        "lastname": "Randallman"
+    }},
+    {"daughter": {
+        "firstname": "Raimi",
+        "lastname": "Randallman"
+    }}
+]}
