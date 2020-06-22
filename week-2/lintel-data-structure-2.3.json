@@ -1,0 +1,26 @@
+{"_id": "4884",
+"name": "JavaScript I",
+"Student": [{"_id": "48597815",
+    "first_name": "Randy",
+    "last_name": "Randallman",
+    "mi": "J",
+    "Enroll": [{"id": "786156",
+    "grade": "94.55"}]
+    },
+    {"_id": "28592210",
+    "first_name": "Chet",
+    "last_name": "Manley",
+    "mi": "S",
+    "Enroll": [{"_id":"786120",
+        "grade": "78.16"
+    }]
+    },
+    {"_id": "98246317",
+    "first_name": "Gilles",
+    "last_name": "De Rais",
+    "mi": "M",
+    "Enroll": [{"_id": "787009",
+        "grade": "82.41"}]
+    }
+    ]
+}

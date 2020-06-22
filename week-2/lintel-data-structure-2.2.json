@@ -1,0 +1,51 @@
+{"_id": "564896",
+"first_name": "Randy",
+"last_name": "Randallman",
+"date_of_birth": {"month": "January",
+    "day": "1",
+    "year": "1970"
+},
+"user_name": "rrandallman",
+"Invoice" :[{
+    "_id": "456892485",
+    "date_created": {"month": "March",
+    "day": "22",
+    "year": "2019"},
+    "date_shipped": {"month": "March",
+    "day": "24",
+    "year": "2019"},
+    "subtotal": "553.24",
+    "tax": "41.49",
+    "total": "594.73",
+    "Line Item": [{"_id": "2485",
+        "name": "table saw",
+        "price": "449.99",
+        "quantity": "1"},
+    {"_id": "1487",
+        "name": "assorted blade kit",
+        "price": "53.25",
+        "quantity": "1"},
+    {"_id": "1000",
+        "name": "gift card",
+        "price": "50.00",
+        "quantity": "1"}]
+},
+{"_id": "660892381",
+    "date_created": {"month": "November",
+        "day": "27",
+        "year": "2019"},
+    "date_shipped": {"month": "November",
+        "day": "30",
+        "year": "2019"},
+        "subtotal": "109.88",
+        "tax": "8.24",
+        "total": "118.12",
+    "Line Item": [{"_id": "4554",
+        "name": "drill press",
+        "price": "109.88",
+        "quantity": "1"}]}
+]}
+
+
+
+    

@@ -1,0 +1,25 @@
+{
+    "author_firstname": "Randy",
+    "author_lastname": "Randallman",
+    "author_phone": "555-123-4567",
+    "author_email": "randy@randallman.org",
+    "Book": [
+        {"book_name": "Randy's Guide to Randalizing Your Life",
+        "book_price": "15.99",
+        "book_isbn": "379-4-568-47084-2",
+        "Publisher": {
+        "publisher_code": "A45D13",
+        "publisher_name": "Book Publishing Inc",
+        "publisher_address": "123 N. 4th St. Omaha, NE 68111"
+        }
+    },
+    {"book_name": "The Randallman Method",
+    "book_price": "22.99",
+    "book_isbn": "379-2-517-41260-2",
+    "Publisher": {
+        "publisher_code": "H22L44",
+        "publisher_name": "SpecificHouse",
+        "publisher_address": "1011 12th Avenue, Council Bluffs IA 51515"
+    }}
+    ]
+}

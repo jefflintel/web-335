@@ -1,0 +1,19 @@
+{
+    "username": "r.randallman",
+    "first_name": "Randy",
+    "last_name": "Randallman",
+    "Role": [
+        {"development": [
+            {"Permissions": "admin"}
+        ]},
+        {"production": [
+            {"Permissions": "edit"}
+        ]},
+        {"research": [
+            {"Permissions": "read"}
+        ]},
+        {"marketing": [
+            {"Permissions": "read"}
+        ]}
+    ]
+}
